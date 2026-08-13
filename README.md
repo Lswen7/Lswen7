@@ -26,6 +26,10 @@
 
 ---
 
+### 🐍 贡献墙贪吃蛇 (Contribution Snake)
+
+![Snake animation](https://raw.githubusercontent.com/Lswen7/Lswen7/output/github-contribution-grid-snake-dark.svg)
+
 ### 📊 GitHub 动态数据统计 (Stats)
 
 <p align="left">
